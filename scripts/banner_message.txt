@@ -1,15 +1,14 @@
-                           .--,       .--,
-                          ( (  \.---./  ) )
-                           '.__/o   o\__.'
-                              {=  ^  =}
-                               >  -  <
-    _______________________.""`-------`""._______________________
-   /                                                             \
-   \                   Authorized access only!                   /
-   / Disconnect IMMEDIATELY if you are not an authorized user!!! \
-   \         All actions will be monitored and recorded.         /
-   /                                                             \
-   \_____________________________________________________________/
-                             ___)( )(___
-                            (((__) (__)))
-
+                         __   _,--="=--,_   __
+                        /  \."    .-.    "./  \
+                       /  ,/  _   : :   _  \/` \
+                       \  `| /o\  :_:  /o\ |\__/
+                        `-'| :="~` _ `~"=: |
+                           \`     (_)     `/
+                    .-"-.   \      |      /   .-"-.
+   .---------------{     }--|  /,.-'-.,\  |--{     }---------------.
+    )              (_)_)_)  \_/`~-===-~`\_/  (_(_(_)              (
+   (                    Authorized access only!                    )
+    ) Disconnect IMMEDIATELY if you are not an authorized user!!! (
+   (          All actions will be monitored and recorded.          )
+    )                                                             (
+   '---------------------------------------------------------------'
